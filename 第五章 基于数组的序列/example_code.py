@@ -28,10 +28,11 @@ def compute_average(n):
         end = time()
         return (end - start) / n
 
+
 # # 测试代码段5-1
 # verify_python_list_use_dynamic_array()
 
-# 测试代码段5-4
-for i in range(4, 10):
-        n = 10**i
-        print(compute_average(n))
+# # 测试代码段5-4
+# for i in range(4, 10):
+#         n = 10**i
+#         print(compute_average(n))
